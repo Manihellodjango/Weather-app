@@ -4,7 +4,7 @@
  If you entered an invalid city or invalid country name  the error message will display
 
 # Technologies used 
-1) HTML <br/>
-2) CSS <br/>
-3) Javascript
+- HTML <br/>
+- CSS <br/>
+- Javascript
 
